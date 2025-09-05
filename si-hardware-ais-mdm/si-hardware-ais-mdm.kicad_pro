@@ -382,6 +382,23 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "97f80214-d5cc-4a35-9cac-bb1ff8330c6a",
+      "Root"
+    ],
+    [
+      "063eab5f-42ef-4708-92ea-9f90f7ad8a5a",
+      "POWER_INPUT"
+    ],
+    [
+      "eb8be877-7392-4453-8d2f-53fc4cbda0d3",
+      "BATTERY_CHARGER"
+    ],
+    [
+      "5ae8db80-f83d-460f-bd68-cb2ce4c023ac",
+      "MDM_AIS"
+    ]
+  ],
   "text_variables": {}
 }
