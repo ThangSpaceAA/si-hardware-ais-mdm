@@ -44,6 +44,44 @@
 		)
 	)
 	(sheet
+		(at 138.43 132.08)
+		(size 22.86 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "487f8325-78ac-466b-85b4-df92bc0f13d9")
+		(property "Sheetname" "MCU"
+			(at 138.43 131.3684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 138.43 142.8246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "si-hardware-ais-mdm"
+				(path "/97f80214-d5cc-4a35-9cac-bb1ff8330c6a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 138.43 111.76)
 		(size 22.86 10.16)
 		(fields_autoplaced yes)
