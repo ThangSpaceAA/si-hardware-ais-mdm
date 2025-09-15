@@ -67,4 +67,5 @@
   (lib (name "SL_Hole")(type "KiCad")(uri "D:/THANGNM/3.PROJECT-KICAD/si-hardware-ais-mdm/si-hardware-kicad-libraries/footprints/SL_Hole.pretty")(options "")(descr ""))
   (lib (name "SI_Inductor")(type "KiCad")(uri "D:/THANGNM/3.PROJECT-KICAD/si-hardware-ais-mdm/si-hardware-kicad-libraries/footprints/SI_Inductor.pretty")(options "")(descr ""))
   (lib (name "SI_RF_FILTER")(type "KiCad")(uri "D:/THANGNM/3.PROJECT-KICAD/si-hardware-ais-mdm/si-hardware-kicad-libraries/footprints/SI_RF_FILTER.pretty")(options "")(descr ""))
+  (lib (name "SL_ESP")(type "KiCad")(uri "D:/5.PROJECT-KICAD/si-hardware-ais-mdm/si-hardware-kicad-libraries/footprints/SL_ESP.pretty")(options "")(descr ""))
 )
