@@ -4519,6 +4519,17 @@
 		)
 		(uuid "26be0099-c5b7-49c8-a6a9-d0f47af843cf")
 	)
+	(label "mdm.IRQ1"
+		(at 168.91 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2a3db29c-c524-4ffe-99c2-934364013bec")
+	)
 	(label "mdm.NSS1"
 		(at 125.73 152.4 0)
 		(fields_autoplaced yes)
@@ -4650,6 +4661,17 @@
 			(justify left bottom)
 		)
 		(uuid "b0a982d5-683b-4134-982a-99f3ad5b4ae0")
+	)
+	(label "mdm.NSS1"
+		(at 168.91 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b2725d00-7f8d-4086-84a0-025dc1770e19")
 	)
 	(label "mdm.MOSI"
 		(at 168.91 96.52 0)
