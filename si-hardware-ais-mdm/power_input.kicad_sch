@@ -4216,6 +4216,15 @@
 				(hide yes)
 			)
 		)
+		(property "Order" ""
+			(at 52.07 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "36222c74-98c4-42ca-83d3-0b3f7de51489")
 		)
