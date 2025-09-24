@@ -2445,7 +2445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CTS_Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "CTS_Resistor_SMD:R_0603_1608Metric"
 			(at 81.28 88.138 90)
 			(effects
 				(font
@@ -2796,7 +2796,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CTS_Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "CTS_Resistor_SMD:R_0603_1608Metric"
 			(at 99.06 79.248 90)
 			(effects
 				(font
