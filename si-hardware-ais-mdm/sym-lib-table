@@ -56,4 +56,5 @@
   (lib (name "ST_PLC")(type "KiCad")(uri "D:/THANGNM/3.PROJECT-KICAD/si-hardware-ais-mdm/si-hardware-kicad-libraries/symbols/ST_PLC.kicad_sym")(options "")(descr ""))
   (lib (name "SI_RF_FILTER")(type "KiCad")(uri "D:/THANGNM/3.PROJECT-KICAD/si-hardware-ais-mdm/si-hardware-kicad-libraries/symbols/SI_RF_FILTER.kicad_sym")(options "")(descr ""))
   (lib (name "SI_ESP32")(type "KiCad")(uri "D:/THANGNM/3.PROJECT-KICAD/si-hardware-ais-mdm/si-hardware-kicad-libraries/symbols/SI_ESP32.kicad_sym")(options "")(descr ""))
+  (lib (name "SI_Bat_Managerment")(type "KiCad")(uri "D:/THANGNM/3.PROJECT-KICAD/si-hardware-ais-mdm/si-hardware-kicad-libraries/symbols/SI_Bat_Managerment.kicad_sym")(options "")(descr ""))
 )
