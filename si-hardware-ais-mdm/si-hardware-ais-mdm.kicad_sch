@@ -296,6 +296,44 @@
 		)
 	)
 	(sheet
+		(at 115.316 123.698)
+		(size 23.368 10.668)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "990ef87c-4a98-41ec-8f47-1c2baaf9c18a")
+		(property "Sheetname" "PERIPHERAL"
+			(at 115.316 122.9864 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripheral.kicad_sch"
+			(at 115.316 134.9506 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "si-hardware-ais-mdm"
+				(path "/97f80214-d5cc-4a35-9cac-bb1ff8330c6a"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 82.55 80.01)
 		(size 22.86 8.89)
 		(fields_autoplaced yes)

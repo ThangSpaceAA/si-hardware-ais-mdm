@@ -631,6 +631,10 @@
     [
       "487f8325-78ac-466b-85b4-df92bc0f13d9",
       "MCU"
+    ],
+    [
+      "990ef87c-4a98-41ec-8f47-1c2baaf9c18a",
+      "PERIPHERAL"
     ]
   ],
   "text_variables": {}
